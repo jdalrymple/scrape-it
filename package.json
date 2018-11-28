@@ -68,8 +68,8 @@
   },
   "dependencies": {
     "assured": "^1.0.10",
-    "cheerio": "^0.20.0",
-    "cheerio-req": "^1.2.0",
+    "cheerio": "^0.22.0",
+    "cheerio-req": "^1.2.2",
     "err": "^2.1.8",
     "is-empty-obj": "^1.0.9",
     "obj-def": "^1.0.6",
